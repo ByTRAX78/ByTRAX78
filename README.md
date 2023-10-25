@@ -2,7 +2,10 @@
 
 I am a software developer who is currently studying. I like to learn and experiment with new technologies as they appear. I try to build things that save me from manual labor. I'm an open source enthusiast and an all things dark mode person. From time to time I write on my blog about new technologies, coding, instructions, travel, etc.
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width=500 height=500 alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width=400 height=400 alt="adam-pw" /></p>
+
+
+
 
 ## Currently Building stuff with
 
