@@ -20,7 +20,7 @@ I am a software developer who is currently studying. I like to learn and experim
 
 - 🎓 I am currently studying Computer Engineering at UPIICSA.
 
-- 📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/18W7iJVVThQxD2Nq5rS53Dt8XSQtJ0Azb/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+- 📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1XRcGWriV9-658uvci9jskHEMsbFc2VBp/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 
   <br>
