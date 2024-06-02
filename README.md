@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/Yq3zJCFK/Presentaci-n-Git-Hub.jpg" alt="Hero image">
 
-I am a software developer who is currently studying. I like to learn and experiment with new technologies as they appear. I try to build things that save me from manual labor. I'm an open source enthusiast and an all things dark mode person. From time to time I write on my blog about new technologies, coding, instructions, travel, etc.
+I am a software developer currently studying. I like to learn and experiment with new technologies as they appear. I try to build things that save me from manual labor. I am an open source enthusiast and constantly like to learn new things.
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width=400 height=400 alt="adam-pw" /></p>
 
@@ -28,7 +28,7 @@ I am a software developer who is currently studying. I like to learn and experim
   
 <p><img align="left" src="https://i.postimg.cc/vZySnmRc/392940687-1741463726369380-746647139896987089-n.jpg" width=250 height=250 alt="adam-pw" /></p>
 
-<br>
+
 
 
 ## Connect with me:
