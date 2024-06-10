@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/Yq3zJCFK/Presentaci-n-Git-Hub.jpg" alt="Hero image">
 
-I am a software developer currently studying. I like to learn and experiment with new technologies as they appear. I try to build things that save me from manual labor. I am an open source enthusiast and constantly like to learn new things.
+I am a Computer Engineering student and software developer passionate about learning and experimenting with new technologies. I like to explore and adopt the latest technological trends, with the aim of continually improving my skills and knowledge. As an open source enthusiast, I enjoy contributing to community projects and am always looking for new opportunities to learn and grow in the technology space.
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width=400 height=400 alt="adam-pw" /></p>
 
