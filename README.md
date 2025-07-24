@@ -33,7 +33,7 @@ I am a Computer Engineering student and software developer passionate about lear
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/martinez-martinez-adrian-316ba2297" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/martinez-martinez-adrian" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
   <a href="https://www.instagram.com/maximilianor_78/" target="blank"><img align="center"
